@@ -159,7 +159,7 @@ Note that semicolons aren't necessary at the end of function *declarations*, jus
 
 	```javascript
 	// Bad
-	var name = 'Reptar';
+	var name = "Reptar";
 
 	// Good
 	var name = 'Reptar';
